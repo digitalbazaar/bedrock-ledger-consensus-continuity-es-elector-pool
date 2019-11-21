@@ -1,0 +1,35 @@
+{
+  "name": "bedrock-ledger-consensus-continuity-es-elector-pool",
+  "version": "0.0.1-0",
+  "description": "Continuity elector selection using an elector pool.",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "lib",
+  "scripts": {
+    "lint": "eslint lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-es-elector-pool.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-es-elector-pool/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-es-elector-pool",
+  "dependencies": {
+    "buffer-xor": "^2.0.2"
+  },
+  "peerDependencies": {
+    "bedrock": "1.18.1 - 3.x",
+    "bedrock-ledger-node": "7.x - 9.x",
+    "bedrock-ledger-utils": "digitalbazaar/bedrock-ledger-utils#implementation"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0",
+    "eslint-config-digitalbazaar": "^2.0.0"
+  }
+}
