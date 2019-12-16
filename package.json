@@ -1,6 +1,6 @@
 {
   "name": "bedrock-ledger-consensus-continuity-es-elector-pool",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Continuity elector selection using an elector pool.",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
