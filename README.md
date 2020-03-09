@@ -4,7 +4,7 @@
 
 ```
 npm i --save bedrock-ledger-consensus-continuity-es-elector-pool
-npm i --save bedrock bedrock-ledger-node bedorkc-ledger-utils
+npm i --save bedrock bedrock-ledger-node bedrock-ledger-utils
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ config['ledger-core'].config = {
 };
 ```
 
-You will also need to load the elector pool in your project
+You will also need to require the elector pool in your project
 
 `/lib/index.js`
 ```js
