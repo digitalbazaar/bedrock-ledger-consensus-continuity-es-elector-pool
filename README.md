@@ -3,8 +3,8 @@
 ## Install
 
 ```
-npm i --save bedrock-ledger-consensus-continuity-es-elector-pool
 npm i --save bedrock bedrock-ledger-node bedrock-ledger-utils
+npm i --save bedrock-ledger-consensus-continuity-es-elector-pool
 ```
 
 ## Usage
