@@ -1,1 +1,1 @@
-# bedrock-ledger-consensus-continuity-es-elector-pool
+# bedrock-ledger-consensus-continuity-ws-witness-pool

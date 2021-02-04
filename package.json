@@ -1,7 +1,7 @@
 {
-  "name": "bedrock-ledger-consensus-continuity-es-elector-pool",
-  "version": "1.0.1-0",
-  "description": "Continuity elector selection using an elector pool.",
+  "name": "bedrock-ledger-consensus-continuity-ws-witness-pool",
+  "version": "0.0.1-0",
+  "description": "Continuity witness selection using a witness pool.",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-es-elector-pool.git"
+    "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-ws-witness-pool.git"
   },
   "author": {
     "name": "Digital Bazaar, Inc.",
@@ -17,19 +17,19 @@
     "url": "https://digitalbazaar.com"
   },
   "bugs": {
-    "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-es-elector-pool/issues"
+    "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-ws-witness-pool/issues"
   },
-  "homepage": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-es-elector-pool",
+  "homepage": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-ws-witness-pool",
   "dependencies": {
     "buffer-xor": "^2.0.2"
   },
   "peerDependencies": {
-    "bedrock": "1.18.1 - 3.x",
-    "bedrock-ledger-node": "7.x - 10.x",
+    "bedrock": "^4.0.0",
+    "bedrock-ledger-node": "^11.0.0",
     "bedrock-ledger-utils": "^1.0.0"
   },
   "devDependencies": {
-    "eslint": "^6.0.0",
+    "eslint": "^7.2.0",
     "eslint-config-digitalbazaar": "^2.0.0"
   }
 }
