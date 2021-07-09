@@ -20,9 +20,6 @@
     "url": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-ws-witness-pool/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-ledger-consensus-continuity-ws-witness-pool",
-  "dependencies": {
-    "buffer-xor": "^2.0.2"
-  },
   "peerDependencies": {
     "bedrock": "^4.0.0",
     "bedrock-ledger-node": "^11.0.0",
