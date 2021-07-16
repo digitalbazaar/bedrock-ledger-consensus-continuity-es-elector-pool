@@ -1,6 +1,6 @@
 # bedrock-ledger-consensus-continuity-ws-witness-pool Change Log
 
-## 1.0.0 - 2021-07-16
+## 2.0.0 - 2021-07-16
 
 ### Changed
 
@@ -21,6 +21,11 @@
   fail. Additional witnesses from the primary list may fail so long as each
   failure is replaced with a non-failure from the witnesses from the secondary
   list.
+
+## 1.0.0 - 2019-12-16
+
+### Added
+
 - Initial implementation of electors.
 - Allow maximumElectorCount to be undefined.
 - Set electors to 1 if there are less than 4.
