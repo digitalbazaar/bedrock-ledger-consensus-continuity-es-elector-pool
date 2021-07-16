@@ -1,6 +1,6 @@
 {
   "name": "bedrock-ledger-consensus-continuity-ws-witness-pool",
-  "version": "2.0.0",
+  "version": "2.0.1-0",
   "description": "Continuity witness selection using a witness pool.",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
